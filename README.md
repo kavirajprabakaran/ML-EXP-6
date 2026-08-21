@@ -55,7 +55,8 @@ print(confusion_matrix(y_test, y_pred))
 ```
 
 ## Output:
-<img width="815" height="481" alt="image" src="https://github.com/user-attachments/assets/81f290ef-503d-43fc-a912-1bc6082f3000" />
+
+<img width="799" height="279" alt="Screenshot 2026-08-21 095314" src="https://github.com/user-attachments/assets/27b7101d-b104-4587-88a3-927bbfba903d" />
 
 
 ## Result:
